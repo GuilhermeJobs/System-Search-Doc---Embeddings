@@ -1,0 +1,8 @@
+Um sistema de buscar por aproximação semântica em uma base de dados controlada desenvolvida no google colab em python ustilizando embeddings (representações vetoriais) .
+
+A base utilizada será livros, porém, vale ressaltar que poderia ser qualquer outro conteudo.
+
+Objetivo do projeto: Encontrar livros com títulos e resumos semelhantes a uma determinada consulta | Recomendar livros da base de dados semelhantes as consulta que um usuário inserir.
+
+by: Guilherme Ferreira
+ferreiraguilherme@discente.ufg.br
